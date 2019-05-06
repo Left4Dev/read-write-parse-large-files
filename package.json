@@ -1,0 +1,20 @@
+{
+  "name": "median-of-large-array",
+  "version": "1.0.0",
+  "description": "Example of a cli tool in node js. \n binary build for mac, win and linux supported (mpm run build).",
+  "main": "index.js",
+  "bin": "index.js", 
+  "scripts": {
+    "start": "npx nodemon index.js test4.db",
+    "debug": "npx nodemon --inspect index.js test4.db",
+    "build": "npx pkg ."
+  },
+  "author": "Rafael Kudla (left4dev)",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^1.18.11",
+    "pkg": "^4.3.7"
+  },
+  "homepage": "https://github.com/Left4Dev/read-write-parse-large-files"
+}
