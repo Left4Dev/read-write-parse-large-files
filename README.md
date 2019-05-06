@@ -12,6 +12,9 @@ FATAL ERROR: Ineffective mark-compacts near heap limit Allocation failed - JavaS
 for files bigger than 500mb.
 
 The script calculates the median of a large file that contains a large number of integer values seperated by ",\n".
+# Requirements:
+tested with
+nodejs 10.14.2
 
 ### Instructions:
 ```
