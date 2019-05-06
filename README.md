@@ -31,7 +31,7 @@ Generates a cli file for Linux, MacOS and Windows.
 cli-usage:
 
 ```
-median <filename> <count> <debug-mode>
+median <filename> <count> <debug>
 
 filename - name for the db to be created
 count - number of random numbers to be generated
