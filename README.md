@@ -11,7 +11,7 @@ FATAL ERROR: Ineffective mark-compacts near heap limit Allocation failed - JavaS
 
 for files bigger than 500mb.
 
-It calculates the Median of a large file that contains a large number of integer values seperated by ",\n".
+The script calculates the median of a large file that contains a large number of integer values seperated by ",\n".
 
 ### Instructions:
 ```
