@@ -1,7 +1,7 @@
 ﻿# read-write-parse-large-files
 
 ### Goal:
-To implement an example of writing and reading of large files with ES6 and Promises but without an additional framework.
+Implement an example of writing and reading of large files with ES6 and Promises but without an additional framework.
 
 This example is useful when trying to implement a read function with createReadStream that works for very large files and getting 
 
