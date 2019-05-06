@@ -17,7 +17,7 @@ The script calculates the median of a large file that contains a large number of
 ```
 npm start
 ```
-Runs the example. It generates a large file in the current folder, reads it and calculates the Median of all numbers.
+Runs the example. It generates a large file in the current folder, reads it and calculates the median of all given numbers.
 
 ```
 npm build
